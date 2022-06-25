@@ -10,7 +10,7 @@ Through Bluetooth Module we are going connect Android phone to Arduino through a
 5.Jumper Wires
 6.Laptop or computer 
 
-##Circuit Diagram
+## Circuit Diagram
 <img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Connections.png" >
 
 <img src ="https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Circuit%20Diagram.png">
