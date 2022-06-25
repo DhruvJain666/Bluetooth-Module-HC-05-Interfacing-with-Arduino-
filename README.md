@@ -27,6 +27,10 @@ Through Bluetooth Module we are going connect Android phone to Arduino through a
 
 <img src = "https://raw.githubusercontent.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/main/assets/Images/Laptop%20or%20computer%20.webp" >
 
+>7.Android phone
+
+<img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Android%20phone.jpg" >
+
 ## Circuit Diagram
 
 <img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Connections.png" >
