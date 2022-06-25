@@ -9,23 +9,23 @@ Through Bluetooth Module we are going connect Android phone to Arduino through a
 
 >2.Arduino UNO
 
-<img src = "" >
+<img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Arduino%20UNO.png" >
 
 >3.Resisters(220 ohm - 9 pieces)
 
-<img src = "" >
+<img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Resisters%20220%20ohm.jpg" >
 
 >4.Red LEDs(9 pieces)
 
-<img src = "" >
+<img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Red%20LED.jpg" >
 
 >5.Jumper Wires
 
-<img src = "" >
+<img src = "https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Jumper%20Wires.jpg" >
 
 >6.Laptop or computer 
 
-<img src = "" >
+<img src = "https://raw.githubusercontent.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/main/assets/Images/Laptop%20or%20computer%20.webp" >
 
 ## Circuit Diagram
 
