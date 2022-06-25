@@ -37,6 +37,10 @@ Through Bluetooth Module we are going connect Android phone to Arduino through a
 
 <img src ="https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/Circuit%20Diagram.png">
 
+## My Circuit
+
+<img src ="https://github.com/DhruvJain666/Bluetooth-Module-HC-05-Interfacing-with-Arduino-/blob/main/assets/Images/My%20Circuit.jpeg">
+
 ## Code
 ```c
 int val;
